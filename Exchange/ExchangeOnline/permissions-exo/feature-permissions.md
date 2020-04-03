@@ -54,7 +54,7 @@ You can use the features in the following table to manage your Exchange Online o
 |Microsoft Office 365 Message Encryption (OME)|Organization Management <br/><br/> Compliance Management <br/><br/> Records Management|
 |Message trace|Organization Management <br/><br/> Compliance Management <br/><br/> Help Desk|
 |Organization configuration|Organization Management|
-|Outlook on thew web mailbox policies|Organization Management <br/><br/> Recipient Management
+|Outlook on the web mailbox policies|Organization Management <br/><br/> Recipient Management
 |POP3 and IMAP4 permissions|Organization Management|
 |Quarantine|Organization Management <br/><br/> Hygiene Management|
 |Supervision|Organization Management|
